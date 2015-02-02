@@ -1,1 +1,1 @@
-Nothing to see here
+A simple test repository
